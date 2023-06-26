@@ -5,7 +5,7 @@
 https://github.com/erdemttas/Finger-Counting/assets/100941281/b3e3ee52-1471-46ad-b3be-d01955dfab62
 
 <br><br><br><br>
-![finger counting](https://github.com/erdemttas/Finger-Counting/assets/100941281/8e7c4f0a-bbb2-48ee-9ab8-02e56ba52cbe)
+![finger counting](https://github.com/erdemttas/Finger-Counting/assets/100941281/f75387da-c1a6-467f-b982-0c3ef613c2c4)
 <br><br><br><br>
 
 # Bir Kodun yazıldıktan sonra mutlaka tekrar edilmesinin gerektiğini düşünüyorum. Bu nedenle her satırı tek tek yorum satırı şeklinde açıkladım.
